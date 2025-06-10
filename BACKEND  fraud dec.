@@ -1,0 +1,6 @@
+# Python Flask endpoint for real-time fraud detection
+# Implement a function to analyze player performance metrics (e.g., eliminations, accuracy, headshot ratio)
+# for a given match and user. Use the FraudDetectionModel from analytics_service.ml_models
+# to identify suspicious activity based on statistical anomalies.
+# Return a boolean indicating suspicion, a confidence score, and identified suspicious metrics.
+# Consider integrating with an admin dashboard for manual review of high-confidence alerts.
